@@ -4,3 +4,10 @@
 Esto es lo que hemos estudiado y analizado en esta Hackathon. Obteniendo datos mediante web-scrapping y analizándolos con técnicas de análisis multivariante y inferencia de variedades geométricas aplicada a datos codificados con la tecnología Word2Vec hemos obtenido resultados sorprendentemente acertados sobre las relaciones de los conceptos y opiniones del diario digital líder en España, "El Español".
 
 Todos los resultados han estado recogidos en el notebook que hemos confeccionado en estas 12 horas.
+
+![Catalunya concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/catalunya.png)
+![Corrupción concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/corrupción.png)
+![Gobierno concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/gobierno.png)
+![Internacional concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/internacional.png)
+![Presos concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/presospoliticos.png)
+![UMAP global map](https://github.com/Huguet57/Information-Contrast/blob/master/images/umap.png)
