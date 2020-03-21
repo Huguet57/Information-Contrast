@@ -5,15 +5,20 @@ Esto es lo que hemos estudiado y analizado en esta Hackathon. Obteniendo datos m
 
 Todos los resultados han estado recogidos en el notebook que hemos confeccionado en estas 12 horas.
 
-"Catalunya"
+# "Catalunya"
 ![Catalunya concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/catalunya.png)
-"Corrupción"
+
+# "Corrupción"
 ![Corrupción concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/corrupción.png)
-"Gobierno"
+
+# "Gobierno"
 ![Gobierno concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/gobierno.png)
-"Internacional"
+
+# "Internacional"
 ![Internacional concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/internacional.png)
-"Presos"
+
+# "Presos"
 ![Presos concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/presospoliticos.png)
-El mapa global
+
+# El mapa global
 ![UMAP global map](https://github.com/Huguet57/Information-Contrast/blob/master/images/umap.png)
