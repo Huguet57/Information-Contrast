@@ -26,4 +26,4 @@ Todos los resultados han estado recogidos en el notebook que hemos confeccionado
 
 ## El mapa completo
 ![UMAP global map](https://github.com/Huguet57/Information-Contrast/blob/master/images/umap.png)
-Se pueden ver las relaciones globales y las distancias entre temáticas.
+Podemos ver que en el mapa, los datos tienen un sentido global. Es decir, podemos ver en el norte palabras relacionadas en notícias internacionales. En el sur, vemos palabras involucrando crímenes, corrupción y prisión. En la derecha palabras sobre gobiernabilidad, ideologías y partidos políticos. Finalmente, en la izquierda vemos las palabras más numéricas de notícias involucrando datos. 
