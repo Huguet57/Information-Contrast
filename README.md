@@ -21,7 +21,7 @@ Todos los resultados han estado recogidos en el notebook que hemos confeccionado
 ### "Delito", "Forcadell", "Exconsejeros", "Malversación", "Llarena"...
 ![Presos concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/presospoliticos.png)
 
-###
+### "Coronavirus", "Yihadista", "Immigrantes", "Economía", "Empleo"...
 ![Coronavirus concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/coronavirus.png)
 
 ## El mapa completo
