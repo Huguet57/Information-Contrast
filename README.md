@@ -21,6 +21,9 @@ Todos los resultados han estado recogidos en el notebook que hemos confeccionado
 ### "Delito", "Forcadell", "Exconsejeros", "Malversación", "Llarena"...
 ![Presos concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/presospoliticos.png)
 
+###
+![Coronavirus concept map](https://github.com/Huguet57/Information-Contrast/blob/master/images/coronavirus.png)
+
 ## El mapa completo
 ![UMAP global map](https://github.com/Huguet57/Information-Contrast/blob/master/images/umap.png)
 Se pueden ver las relaciones globales y las distancias entre temáticas.
